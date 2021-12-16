@@ -5,7 +5,7 @@
 **PR**: https://github.com/DrPayne25/math-series/pull/1
 
 ## Overview
- 
+ This project will allow users to create a band of different musicians and add them to a list and then allow each musician to play solo their own instrument 
 
 ## Getting Started
 1. Create a new poetry project this one is called pythonic-garage-band
@@ -28,11 +28,11 @@ Name of feature: Tests working
 
 Estimate of time needed to complete: 30min
 
-Start time: 7
+Start time: 7:20
 
-Finish time: 7:20
+Finish time: 8:26
 
-Actual time needed to complete: 20min
+Actual time needed to complete: 1hr
 
 ## Credit and Collaborations
 Worked with Brandon and Eddie for testing and discussion
