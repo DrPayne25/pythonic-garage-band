@@ -18,12 +18,22 @@ Name of feature: Setup
 
 Estimate of time needed to complete: 30min
 
-Start time: 8:30
+Start time: 7
 
-Finish time: 9:11
+Finish time: 7:20
 
-Actual time needed to complete: 41min
+Actual time needed to complete: 20min
+
+Name of feature: Tests working 
+
+Estimate of time needed to complete: 30min
+
+Start time: 7
+
+Finish time: 7:20
+
+Actual time needed to complete: 20min
 
 ## Credit and Collaborations
 Worked with Brandon and Eddie for testing and discussion
-Help was acquired from these articles to get a better understanding 
+Help was acquired from these articles to get a better understanding N/A
